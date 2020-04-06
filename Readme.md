@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Иванна Кузакова](https://up.htmlacademy.ru/adaptive/19/user/476977).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
